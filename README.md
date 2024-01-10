@@ -28,6 +28,7 @@ O código-fonte deste projeto está disponível em repositórios públicos no Gi
 Este projeto foi desenvolvido com foco em oferecer uma experiência de usuário intuitiva e segura para gerenciamento de habilidades, utilizando tecnologias modernas e práticas recomendadas para o desenvolvimento de aplicativos web e mobile.
 
 ## Ferramentas e tecnologias
+- [JavaScript]
 
 ## Licença 
 - [APACHE LICENSE](https://www.apache.org/licenses/LICENSE-2.0)
